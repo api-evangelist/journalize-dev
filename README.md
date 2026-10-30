@@ -64,5 +64,145 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-journalize-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://journalize.dev/
+Journalize — bookkeeping your AI agent can run on its own. Give an AI agent a real double-entry ledger: an account it opens once, transactions validated by real Beancount rules, and balance sheets/income statements it can pull on demand. REST and MCP, priced per call via x402. The service offers endpoints to register keys, submit and validate accounting directives, list accounts, and retrieve balances, all secured with Ed25519 signatures. Built by Chris Dunn in Singapore, Journalize enables AI agents to perform accurate financial bookkeeping without manual intervention.
+
+**Areas:** Company · Accounting · AI · FinTech · Ledger
+
+## journalize-dev on APIs.io
+
+Everything profiled for journalize-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/journalize-dev/](https://apis.io/providers/journalize-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [journalize-dev Accounts API](https://apis.io/apis/journalize-dev/journalize-dev-accounts-api/) — The Accounts API from journalize-dev — 2 operation(s) for accounts.
+- [journalize-dev Export API](https://apis.io/apis/journalize-dev/journalize-dev-export-api/) — The Export API from journalize-dev — 1 operation(s) for export.
+- [journalize-dev Health API](https://apis.io/apis/journalize-dev/journalize-dev-health-api/) — The Health API from journalize-dev — 1 operation(s) for health.
+- [journalize-dev Journal API](https://apis.io/apis/journalize-dev/journalize-dev-journal-api/) — The Journal API from journalize-dev — 3 operation(s) for journal.
+- [journalize-dev Journalize API](https://apis.io/apis/journalize-dev/journalize-dev-journalize-api/) — The Journalize API from journalize-dev — 1 operation(s) for journalize.
+- [journalize-dev Llms.txt API](https://apis.io/apis/journalize-dev/journalize-dev-llms-txt-api/) — The Llms.txt API from journalize-dev — 1 operation(s) for llms.txt.
+- [journalize-dev Privacy API](https://apis.io/apis/journalize-dev/journalize-dev-privacy-api/) — The Privacy API from journalize-dev — 1 operation(s) for privacy.
+- [journalize-dev Register API](https://apis.io/apis/journalize-dev/journalize-dev-register-api/) — The Register API from journalize-dev — 1 operation(s) for register.
+- [journalize-dev Reports API](https://apis.io/apis/journalize-dev/journalize-dev-reports-api/) — The Reports API from journalize-dev — 3 operation(s) for reports.
+- [journalize-dev Robots.txt API](https://apis.io/apis/journalize-dev/journalize-dev-robots-txt-api/) — The Robots.txt API from journalize-dev — 1 operation(s) for robots.txt.
+- [journalize-dev Security.txt API](https://apis.io/apis/journalize-dev/journalize-dev-security-txt-api/) — The Security.txt API from journalize-dev — 1 operation(s) for security.txt.
+- [journalize-dev SKILL.md API](https://apis.io/apis/journalize-dev/journalize-dev-skill-md-api/) — The SKILL.md API from journalize-dev — 1 operation(s) for skill.md.
+- [journalize-dev Terms API](https://apis.io/apis/journalize-dev/journalize-dev-terms-api/) — The Terms API from journalize-dev — 1 operation(s) for terms.
+- [journalize-dev .well Known API](https://apis.io/apis/journalize-dev/journalize-dev-well-known-api/) — The .well Known API from journalize-dev — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Journalize Dev Agentic Access](https://apis.io/agentic-access/journalize-dev/journalize-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BalanceSheetResponse](https://apis.io/schemas/journalize-dev/journalize-dev-balance-sheet-response/)
+- [DirectiveBatchRequest](https://apis.io/schemas/journalize-dev/journalize-dev-directive-batch-request/)
+- [DirectiveWriteResponse](https://apis.io/schemas/journalize-dev/journalize-dev-directive-write-response/)
+- [IncomeStatementResponse](https://apis.io/schemas/journalize-dev/journalize-dev-income-statement-response/)
+- [RegisterResponse](https://apis.io/schemas/journalize-dev/journalize-dev-register-response/)
+- [TrialBalanceResponse](https://apis.io/schemas/journalize-dev/journalize-dev-trial-balance-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Journalize Dev Context](https://apis.io/jsonld/journalize-dev/journalize-dev-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Journalize Dev Openapi Overlay](https://apis.io/overlays/journalize-dev/journalize-dev-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [journalize-dev API Rules](https://apis.io/rules/journalize-dev/journalize-dev-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Journalize Dev Authentication](https://apis.io/security/journalize-dev/journalize-dev-authentication/)
+- [Journalize Dev Domain Security](https://apis.io/security/journalize-dev/journalize-dev-domain-security/)
+- [Journalize Dev Vulnerability Disclosure](https://apis.io/security/journalize-dev/journalize-dev-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Journalize Dev Scopes](https://apis.io/scopes/journalize-dev/journalize-dev-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://journalize.dev/)
+- [Documentation](https://journalize.dev/docs)
+- [API reference](https://journalize.dev/openapi.json)
+- [Terms of service](https://journalize.dev/terms)
+- [Privacy policy](https://journalize.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.2** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 49.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/journalize-dev/](https://apis.io/providers/journalize-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for journalize-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/journalize-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
